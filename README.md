@@ -19,6 +19,6 @@ requests
 random
 json
 
-to show the stocks in stock1.py click on search.
+to show the stocks in stock1.py click on search.(problem is now fixed)
 
 and have fun😊😊😊😊😊.
