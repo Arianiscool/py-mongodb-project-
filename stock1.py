@@ -24,6 +24,9 @@ def update():
     coll.delete_many({})
     for i in range(len(name)):
         coll.insert_one({"key":name[i],"price":price[i]})
+    treev.delete(*treev.get_children())
+    for a in range(len(name)):
+        treev.insert('','end', values=(name[a], price[a]))
 
 
 def search():
