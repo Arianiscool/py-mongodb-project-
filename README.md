@@ -19,4 +19,6 @@ requests
 random
 json
 
+to show the stocks in stock1.py click on search.
+
 and have fun😊😊😊😊😊.
